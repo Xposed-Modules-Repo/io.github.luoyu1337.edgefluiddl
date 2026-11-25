@@ -1,5 +1,5 @@
 # EdgeFluidDL
-## Edge 下载显示到流体云
+Edge 下载显示到流体云
 
 在 Edge 进程里改写下载通知，让它变成 Android 16 的 ProgressStyle 通知。
 ColorOS 16 / 17 的流体云会把它显示成胶囊或卡片，其它 Android 16+ 系统显示为普通进度通知。
@@ -111,10 +111,6 @@ scripts/                      build.sh / link.sh / package.sh / 调试签名
 [MIT](https://github.com/Luoyu1337/edge-fluiddl/blob/main/LICENSE)
 
 源码与问题反馈：[Luoyu1337/edge-fluiddl](https://github.com/Luoyu1337/edge-fluiddl)
-
-## 作者
-
-LuoYu · [GitHub](https://github.com/Luoyu1337)
 
 ## 图标
 
